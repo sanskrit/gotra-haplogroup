@@ -6,4 +6,6 @@ veda_shaakhaas = ["yajurveda/taittiriiya"]
 ancestral_districts = ["tumkur", "hassan"]
 paternal_jaati = "hebbaar-ayyangaar"
 id = "shriivatsa/KA/south_east/aapastamba/1"
+paternal_haplogroup = "R-M512"
+maternal_haplogroup = "R30a"
 data_provider = "23andme"
